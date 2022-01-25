@@ -1,15 +1,14 @@
 # A-Philosophy-of-Software-Design 中文版
 《软件设计哲学》
 
+fork of https://github.com/go7hic/A-Philosophy-of-Software-Design/
+
 封面
 
 [![NHUSne.th.jpg](https://s1.ax1x.com/2020/07/02/NHUSne.th.jpg)](https://imgchr.com/i/NHUSne)
 
 
-
-在线阅读地址：https://go7hic.github.io/A-Philosophy-of-Software-Design/#/
-
-
+在线阅读地址： https://plusplusj.github.io/a-philosophy-of-software-design/
 
 - [x] 1 Introduction
 - [x] 2 The Nature of Complexity
